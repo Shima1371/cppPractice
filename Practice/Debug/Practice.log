@@ -1,0 +1,5 @@
+﻿  iterator.cpp
+c:\users\zebra\documents\visual studio 2015\projects\practice\practice\all.h(19): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\zebra\documents\visual studio 2015\projects\practice\practice\all.h(50): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  Practice.vcxproj -> C:\Users\zebra\Documents\Visual Studio 2015\Projects\Practice\Debug\Practice.exe
+  Practice.vcxproj -> C:\Users\zebra\Documents\Visual Studio 2015\Projects\Practice\Debug\Practice.pdb (Partial PDB)

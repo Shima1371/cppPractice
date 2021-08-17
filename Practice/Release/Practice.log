@@ -1,0 +1,10 @@
+﻿  binary.cpp
+c:\users\zebra\documents\visual studio 2015\projects\practice\practice\all.h(19): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+c:\users\zebra\documents\visual studio 2015\projects\practice\practice\all.h(50): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
+  コード生成しています。
+  81 of 82 functions (98.8%) were compiled, the rest were copied from previous compilation.
+    71 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  Practice.vcxproj -> C:\Users\zebra\Documents\Visual Studio 2015\Projects\Practice\Release\Practice.exe
+  Practice.vcxproj -> C:\Users\zebra\Documents\Visual Studio 2015\Projects\Practice\Release\Practice.pdb (Full PDB)
