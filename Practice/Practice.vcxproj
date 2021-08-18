@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="forEach.cpp" />
+    <ClCompile Include="allAnyNoneOf.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
