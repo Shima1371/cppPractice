@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pred.cpp">
+    <ClCompile Include="count.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
