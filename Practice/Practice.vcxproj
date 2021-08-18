@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="iteratorSuffix.cpp" />
+    <ClCompile Include="const.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
