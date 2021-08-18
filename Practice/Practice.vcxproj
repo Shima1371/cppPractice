@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="count.cpp" />
+    <ClCompile Include="equal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
