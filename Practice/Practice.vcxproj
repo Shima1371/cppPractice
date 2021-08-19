@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="remove.cpp" />
+    <ClCompile Include="capture.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
