@@ -1,4 +1,4 @@
-﻿  generate.cpp
+﻿  remove.cpp
   The contents of <string_view> are available only with C++17 or later.
   The contents of <filesystem> are available only with C++17 or later.
   Practice.vcxproj -> \\wsl$\Ubuntu\home\shima\tex\cppPractice\x64\Debug\Practice.exe
