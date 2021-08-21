@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="capture.cpp">
+    <ClCompile Include="provideFunctionToVariables.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
