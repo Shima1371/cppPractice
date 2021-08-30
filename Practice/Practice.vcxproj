@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="initialize.cpp" />
+    <ClCompile Include="operator.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
