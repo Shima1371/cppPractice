@@ -1,4 +1,5 @@
-﻿  provideFunctionToVariables.cpp
+﻿  initialize.cpp
+\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\initialize.cpp(1,10): warning C4067: プリプロセッサ ディレクティブの後に余分な文字がありました - 改行が必要です
   The contents of <string_view> are available only with C++17 or later.
   The contents of <filesystem> are available only with C++17 or later.
   Practice.vcxproj -> \\wsl$\Ubuntu\home\shima\tex\cppPractice\x64\Debug\Practice.exe
