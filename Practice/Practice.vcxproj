@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="implementArray.cpp" />
+    <ClCompile Include="pointer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />

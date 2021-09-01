@@ -1,8 +1,4 @@
-﻿  implementArray.cpp
+﻿  pointer.cpp
   The contents of <string_view> are available only with C++17 or later.
   The contents of <filesystem> are available only with C++17 or later.
-\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\implementArray.cpp(109,10): error C2955: 'array_iterator': クラス テンプレート を使用するには テンプレート 引数リストが必要です
-\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\implementArray.cpp(5): message : 'array_iterator' の宣言を確認してください
-\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\implementArray.cpp(108): message : クラス テンプレート メンバー関数 'array_iterator<array<int,5>> array<int,5>::begin(void)' のコンパイル中
-\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\implementArray.cpp(135): message : コンパイル対象の関数 テンプレート インスタンス化 'array_iterator<array<int,5>> array<int,5>::begin(void)' のリファレンスを確認してください
-\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\implementArray.cpp(129): message : コンパイル対象の クラス テンプレート インスタンス化 'array<int,5>' のリファレンスを確認してください
+  Practice.vcxproj -> \\wsl$\Ubuntu\home\shima\tex\cppPractice\x64\Debug\Practice.exe
