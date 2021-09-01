@@ -20,7 +20,7 @@
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="template.cpp">
+    <ClCompile Include="implementArray.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
