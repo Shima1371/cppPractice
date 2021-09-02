@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="array_pointer.cpp" />
+    <ClCompile Include="class_pointer2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
