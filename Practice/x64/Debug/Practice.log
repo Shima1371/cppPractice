@@ -1,4 +1,4 @@
-﻿  pointer.cpp
+﻿  array_pointer.cpp
   The contents of <string_view> are available only with C++17 or later.
   The contents of <filesystem> are available only with C++17 or later.
-  Practice.vcxproj -> \\wsl$\Ubuntu\home\shima\tex\cppPractice\x64\Debug\Practice.exe
+\\wsl$\Ubuntu\home\shima\tex\cppPractice\Practice\array_pointer.cpp(17,4): error C3863: 配列型 'int [5]' を割り当てることはできません。
