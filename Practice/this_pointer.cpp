@@ -5,7 +5,8 @@ struct C
 	int data{};
 	void set(int n)
 	{
-		data = n;
+		C* pointer = this;
+		this->data = n;
 	}
 };
 
