@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="class_pointer2.cpp" />
+    <ClCompile Include="invoke.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
