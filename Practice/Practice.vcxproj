@@ -110,7 +110,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="invoke.cpp" />
+    <ClCompile Include="size_of_class.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="all.h" />
